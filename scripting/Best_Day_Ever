@@ -1,0 +1,27 @@
+#!/bin/bash
+echo "whats your name?"
+read name 
+
+sleep 3
+
+
+echo "Hello ,Good Morning $name"
+
+sleep 4
+
+
+echo "You're looking good today $name"
+
+
+sleep 5
+
+
+
+echo "$name ,What do you wanna have for breakfasrlt today ?"
+
+
+sleep 3
+
+
+
+echo "Okay $name .Have a great day ahead"
