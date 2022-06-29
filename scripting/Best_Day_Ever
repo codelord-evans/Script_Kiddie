@@ -17,11 +17,16 @@ sleep 5
 
 
 
-echo "$name ,What do you wanna have for breakfasrlt today ?"
+echo "$name ,What do you wanna have for breakfast today ?" 
 
 
 sleep 3
 
+
+echo "sorry $name. that's not available .Choose something else"
+
+
+sleep 4
 
 
 echo "Okay $name .Have a great day ahead"
